@@ -6,7 +6,7 @@ JOBS = [
   {
     'id': 1,
     'title': 'Data Analyst',
-    'location': 'Bengaluru, India',
+    'location': 'New York, USA',
     'salary': 'Rs. 10,00,000'
   },
   {
